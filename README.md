@@ -24,10 +24,3 @@ This project parses your Spotify streaming history, visualizes listening trends,
 - Spotipy (Spotify Web API)
 - Jupyter Notebook (or any Python IDE)
 
-## 📦 Getting Started
-
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/yourusername/spotify-wrapped-diy.git
-cd spotify-wrapped-diy
